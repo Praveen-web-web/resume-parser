@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pdfminer.six
+docx2txt
+spacy
+python-dotenv
